@@ -7,4 +7,4 @@ title: Contact
 
 Email: ben at nathanson dot dev
 
-Calendly: [https://calendly.com/benedwinnathanson](https://calendly.com/benedwinnathanson)
+Calendly: [benedwinnathanson](https://calendly.com/benedwinnathanson)
