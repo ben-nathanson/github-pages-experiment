@@ -25,6 +25,8 @@
 
   <title>{{ title }}</title>
 
+  <link rel="shortcut icon" type="image/x-icon" href="{{ "/img/favicon.ico?" | prepend: site.baseurl }}" >
+
   {% if site.author %}
   <meta name="author" content="{{ site.author }}">
   {% endif %}
@@ -68,7 +70,7 @@
       {% include ext-css.html css=css %}
     {% endfor %}
   {% endif %}
-  
+
   {% if page.css %}
     {% for css in page.css %}
       <link rel="stylesheet" href="{{ css | relative_url }}">
