@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Work, Life, Tabs versus Spaces, et cetera.
+subtitle: Work, Life, Tabs Versus Spaces, Et Cetera.
 ---
 
 ### How did you get here?
