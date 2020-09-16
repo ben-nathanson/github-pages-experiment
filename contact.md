@@ -5,6 +5,6 @@ title: Contact
 
 ## Drop me a line!
 
-Email: ben at nathanson dot dev
+Email: [ben@nathanson.dev](mailto:ben@nathanson.dev)
 
 Calendly: [benedwinnathanson](https://calendly.com/benedwinnathanson)
