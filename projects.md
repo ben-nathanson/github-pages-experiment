@@ -15,6 +15,6 @@ subtitle: Projects I'm actively involved in at the moment.
 - **This Website**
   - This website's stack consists of:
      1. [Beautiful Jekyll](https://github.com/daattali/beautiful-jekyll) on the front end.
-     1. Google Domains as the registrar for `nathanson.dev`
+     1. Google Domains as the registrar for `nathanson.dev`. 
      1. GitHub Pages for hosting.
   - Check out the source code [here](https://github.com/ben-nathanson/ben-nathanson.github.io)
