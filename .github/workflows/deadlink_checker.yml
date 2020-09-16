@@ -11,7 +11,8 @@ jobs:
       - name: Link Checker
         uses: peter-evans/link-checker@v1
         with:
-          args: --timeout 60 --document-root index.html aboutme.md contact.md projects.md resume.md
+          # Note that this uses Liche args: https://github.com/raviqqe/liche
+          args: --timeout 60 index.html aboutme.md contact.md projects.md resume.md
 
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v2
