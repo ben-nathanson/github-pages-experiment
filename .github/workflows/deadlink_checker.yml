@@ -1,0 +1,22 @@
+name: Check markdown links
+on: [push, pull_request]
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Link Checker
+        uses: peter-evans/link-checker@v1
+        with:
+          # Note that this uses Liche args: https://github.com/raviqqe/liche
+          args: --timeout 60 index.html aboutme.md contact.md projects.md resume.md
+
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Link Checker Report
+          content-filepath: ./link-checker/out.md
+          labels: bug, automated issue
