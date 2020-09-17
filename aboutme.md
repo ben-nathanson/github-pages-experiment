@@ -16,7 +16,7 @@ Most recently, I worked at PNC numo as an intern and contractor developing backe
 
 ### Where are you now?
 
-Pittsburgh. I graduated from Pitt in August of 2020. Haven't even gotten my diploma yet (apparently it will be sent to me in the mail at some point). Before \*gestures broadly at everything\* I was planning to do a third and final internship in the Summer, take classes in the Fall, and graduate in December of 2020. At the end of a carefully orchestrated career pivot that was going smoothly enough, COVID scrapped that third internship, forcing me to improvise my way to the finish line, completing my degree four months early. I'm far from done learning new things, though.
+Pittsburgh. I graduated from Pitt in August of 2020. Haven't even gotten my diploma yet (it's in the mail). Before \*gestures broadly at everything\* I was planning to do a third and final internship in the Summer, take classes in the Fall, and graduate in December of 2020. At the end of a carefully orchestrated career pivot that was going smoothly enough, COVID scrapped that third internship, forcing me to improvise my way to the finish line, completing my degree four months early. I'm far from done learning new things, though.
 
 I'll be taking advantage of this surprise window of free time to work through my own personal syllabus of topics that weren't covered in my computer science degree, contribute to my favorite open source project, the [Pittsburgh City Scrapers](https://github.com/pgh-public-meetings/city-scrapers-pitt), and explore my next steps as an engineer.
 
