@@ -9,7 +9,7 @@ Looking for a printer-friendly version? Click [here](assets/docs/Ben_Nathanson_R
 
 # Employment
 
-#### PNC numo
+### PNC numo
 - ##### Software Engineer (Contractor)
   **Summer 2020 - Fall 2020**
   - Developed a new UI test suite for a consumer-facing mobile app using Flutter driver and MockServer.
@@ -23,7 +23,7 @@ Looking for a printer-friendly version? Click [here](assets/docs/Ben_Nathanson_R
   - Created a regression test suite for our transactions API using LocalStack, Behave, Docker, and Python.
   - Led sprint retrospectives, demoed new features, and practiced Agile Scrum in a start-up environment.
 
-#### Columbus McKinnon
+### Columbus McKinnon
 - ##### Test Automation Intern
   **Fall 2019 - Winter 2019**
   - Converted forty manual tests into an automated test suite, saving hours on each release cycle.
