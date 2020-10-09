@@ -13,6 +13,8 @@ navbar-links:
   Projects: "projects"
   About Me: "aboutme"
   Contact: "contact"
+  Fun Stuff:
+   - Music: "music"
 
 # --- Logo --- #
 
