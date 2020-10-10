@@ -8,7 +8,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Link Checker
+      - name: Mixed HTTP/HTTPS Check
+        run: |
+          ./.github/workflows/mixed_http_check.sh
+
+      - name: Dead Link Checker
         uses: peter-evans/link-checker@v1
         with:
           # Note that this uses Liche args: https://github.com/raviqqe/liche
