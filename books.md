@@ -9,6 +9,8 @@ title: What I'm Reading
 | Analyzing Computer Security: A Threat/vulnerability/countermeasure Approach | Charles P Pfleeger and Shari Lawrence Pfleeger |
 | Click Here to Kill Everybody | Bruce Schneier |
 | Cooked: A Natural History of Transformation | Michael Pollan |
+| Changes in the Land: Indians, Colonists, and the Ecology of New England | William Cronon | 
+| Cradle to Cradle: Remaking the Way We Make Things | William McDonough and Michael Braungart |
 | Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software | Scott Rosenberg |
 | Emergence: The Connected Lives of Ants, Brains, Cities, and Software | Steven Johnson |
 | Green Giants: How Smart Companies Turn Sustainability Into Billion-Dollar Businesses | E. Freya Williams |
@@ -19,12 +21,18 @@ title: What I'm Reading
 | Meditations | Marcus Aurelius |
 | Nine Algorithms That Changed the Future: The Ingenious Ideas That Drive Today's Computers | John MacCormick |
 | No One at the Wheel | Sam Schwartz |
+| Predictably Irrational: The Hidden Forces That Shape Our Decisions | Dan Ariely | 
 | Secret History: The Story of Cryptology | Craig P. Bauer |
-| Street Smart | Barry Schwartz |
+| Street Smart | Barry Schwartz | 
+| The Conscious Kitchen | Alexandra Zissu | 
 | The Emperor of All Maladies: A Biography of Cancer | Siddhartha Mukherjee |
-| The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions | Peter Brannen |
+| The End of Nature | Bill McKibben |
+| The Ends of the World: Volcanic Apocalypses, Lethal Oceans, and Our Quest to Understand Earth's Past Mass Extinctions | Peter Brannen | 
+| The Ethics of What We Eat: Why Our Food Choices Matter | Peter Singer and Jim Mason |
 | The Mobile Wave: How Mobile Intelligence Will Change Everything | Michael Saylor |
 | The Mythical Man-Month: Essays on Software Engineering | Fred Brooks |
+| The Omnivore's Dilemma: A Natural History of Four Meals | Michael Pollan |
+| The Organic Machine: The Remaking of the Columbia River | Richard White |
 | The Paradox of Choice | Barry Schwartz |
 | The Post-American World | Fareed Zakaria |
 | The Truthful Art: Data, Charts, and Maps for Communication | Alberto Cairo |
