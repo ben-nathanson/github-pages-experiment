@@ -11,7 +11,7 @@ Looking for a printer-friendly version? Click [here](assets/docs/Ben_Nathanson_R
 
 ### Stavvy
 - ##### Software Engineer
-  **October 2020 - Present**
+  **November 2020 - Present**
 
   *Note: I haven't started here just yet. Will fill this in as time goes on.*
 
