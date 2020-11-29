@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v2.3.3
+      - uses: actions/checkout@v2.3.4
 
       - name: Mixed HTTP/HTTPS Check
         run: |
@@ -19,7 +19,7 @@ jobs:
           args: --timeout 60 index.html aboutme.md contact.md projects.md resume.md
 
       - name: Create Issue From File
-        uses: peter-evans/create-issue-from-file@v2.3.1
+        uses: peter-evans/create-issue-from-file@v2.3.2
         with:
           title: Link Checker Report
           content-filepath: ./link-checker/out.md

@@ -1,9 +1,7 @@
 - - -
 
-## layout: page
-
+layout: page
 title: What I'm Reading
-subtitle: Book Recommendations
 
 | Title | Author |
 | ----- | ------ |
