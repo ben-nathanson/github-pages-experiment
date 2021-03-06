@@ -29,6 +29,7 @@ title: What I'm Reading
 | The End of Nature | Bill McKibben |
 | The Ends of the World | Peter Brannen |
 | The Ethics of What We Eat | Peter Singer and Jim Mason |
+| The Field of Blood | Joanne B. Freeman |
 | The Mobile Wave | Michael Saylor |
 | The Mythical Man-Month | Fred Brooks |
 | The Omnivore's Dilemma | Michael Pollan |
