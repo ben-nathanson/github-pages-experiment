@@ -10,14 +10,11 @@ Looking for a printer-friendly version? Click [here](assets/docs/Ben_Nathanson_R
 # Employment
 
 ### Stavvy
-- ##### Software Engineer
+- ##### Full-Stack Software Engineer
   **November 2020 - Present**
 
-  *Note: I haven't started here just yet. Will fill this in as time goes on.*
-
-
 ### PNC numo
-- ##### Software Engineer (Contractor)
+- ##### Software Engineer
   **April 2020 - August 2020**
   - Developed a new UI test suite for a consumer-facing mobile app using Flutter driver and MockServer.
   - Deployed automated tests on GitHub Actions to deliver continuous integration testing.
@@ -63,14 +60,12 @@ Looking for a printer-friendly version? Click [here](assets/docs/Ben_Nathanson_R
 Language   | Time | Level
 ----------- | ----------- | -----------
 Python | 4 years | Proficient
-Java  | 4 years | Proficient
-C | 2 years | Intermediate
 Dart | 1 year | Beginner
-JavaScript | < 1 year | Beginner
+TypeScript | < 1 year | Beginner
 
 ---
 ### Skills
-- Appium
+-  Appium
 -  AWS Lambda
 -  Behave
 -  Beyond Compare
