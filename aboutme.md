@@ -16,7 +16,7 @@ As a capstone to my education, I worked at PNC numo as an intern and contractor 
 
 ### Where are you now?
 
-Pittsburgh. I graduated from Pitt in August of 2020. Before \*gestures broadly at everything\* I was planning to do a third and final internship in the Summer, take classes in the Fall, and graduate in December of 2020. At the end of a carefully orchestrated career pivot that was going smoothly enough, COVID scrapped that third internship, forcing me to improvise my way to the finish line, completing my degree four months early. Fortunately, I landed a great job at [Stavvy](https://www.stavvy.com) as a full-stack Software Engineer where I am working on Python, AWS, TypeScript, and more. I'm moving to Boston post-pandemic, where Stavvy has their offices. 
+Boston. Brookline, more specifically. I landed a great job at [Stavvy](https://www.stavvy.com) as a full-stack Software Engineer where I am working on Python, AWS, TypeScript, and more. 
 
 ### What do you do besides work?
 
