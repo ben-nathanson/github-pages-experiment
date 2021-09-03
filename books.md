@@ -41,6 +41,6 @@ title: What I'm Reading
 | Think Complexity | Allen B. Downey |
 | Turing’s Cathedral | George Dyson |
 | Weapons of Math Destruction | Cathy O'Neil |
-| Web scraping with Python | Ryan Mitchell |
+| Web Scraping with Python | Ryan Mitchell |
 | Why We Sleep | Matthew Walker |
 | Zero | Charles Seife |
