@@ -19,7 +19,7 @@ jobs:
           args: --timeout 60 index.html aboutme.md contact.md projects.md resume.md
 
       - name: Create Issue From File
-        uses: peter-evans/create-issue-from-file@v2.3.2
+        uses: peter-evans/create-issue-from-file@v3.0.0
         with:
           title: Link Checker Report
           content-filepath: ./link-checker/out.md
