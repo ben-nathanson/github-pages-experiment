@@ -13,6 +13,7 @@ title: What I'm Reading
 | Cradle to Cradle | William McDonough and Michael Braungart |
 | Dreaming in Code | Scott Rosenberg |
 | Emergence | Steven Johnson |
+| Encounters with the Archdruid | John McPhee |
 | Green Giants | E. Freya Williams |
 | How to Change Your Mind | Michael Pollan |
 | JavaScript and JQuery | Jon Duckett |
