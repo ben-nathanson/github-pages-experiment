@@ -2,6 +2,7 @@
 layout: page
 title: About me
 subtitle: Work, Life, Tabs Versus Spaces, Et Cetera.
+share-description: Ben's professional bio
 ---
 
 ### How did you get here?

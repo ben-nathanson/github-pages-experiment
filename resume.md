@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-share-description: Ben's resume
+share-description: Ben's work and educational history
 ---
 
 Looking for a printer-friendly version? Click [here](assets/docs/Ben_Nathanson_Resume_Public.pdf).
