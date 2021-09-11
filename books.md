@@ -6,6 +6,7 @@ title: What I'm Reading
 | Title | Author |
 | ----- | ------ |
 | A Practical Guide to UNIX System V | Mark G. Sobell |
+| A Thousand Splendid Suns | Khaled Hosseini |
 | Analyzing Computer Security | Charles P Pfleeger and Shari Lawrence Pfleeger |
 | Click Here to Kill Everybody | Bruce Schneier |
 | Cooked | Michael Pollan |
@@ -31,6 +32,8 @@ title: What I'm Reading
 | The Ends of the World | Peter Brannen |
 | The Ethics of What We Eat | Peter Singer and Jim Mason |
 | The Field of Blood | Joanne B. Freeman |
+| The Hobbit | J. R. R. Tolkein |
+| The Kite Runner | Khaled Hosseini |
 | The Mobile Wave | Michael Saylor |
 | The Mythical Man-Month | Fred Brooks |
 | The Omnivore's Dilemma | Michael Pollan |
