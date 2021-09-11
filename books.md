@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What I'm Reading
+share-description: Ben's favorite books
 ---
 
 | Title | Author |

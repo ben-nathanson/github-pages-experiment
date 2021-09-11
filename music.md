@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Music
+share-description: Ben's musical projects
 ---
 
 # Yeti Bite

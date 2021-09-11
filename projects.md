@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+share-description: Ben's open source and personal work
 ---
 
 - **Pittsburgh City Scrapers**
