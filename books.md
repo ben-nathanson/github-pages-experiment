@@ -24,8 +24,10 @@ share-description: Ben's favorite books
 | Meditations | Marcus Aurelius |
 | Nine Algorithms That Changed the Future | John MacCormick |
 | No One at the Wheel | Sam Schwartz |
+| No Rules Rules | Erin Meyer and Redd Hastings |
 | Predictably Irrational | Dan Ariely |
 | Secret History | Craig P. Bauer |
+| Serious Python | Julien Danjou |
 | Street Smart | Sam Schwartz |
 | The Conscious Kitchen | Alexandra Zissu |
 | The Emperor of All Maladies | Siddhartha Mukherjee |
