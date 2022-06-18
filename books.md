@@ -37,6 +37,7 @@ share-description: Ben's favorite books
 | The Field of Blood | Joanne B. Freeman |
 | The Hobbit | J. R. R. Tolkein |
 | The Kite Runner | Khaled Hosseini |
+| The Manager's Path | Camille Fournier |
 | The Mobile Wave | Michael Saylor |
 | The Mythical Man-Month | Fred Brooks |
 | The Omnivore's Dilemma | Michael Pollan |
