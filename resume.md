@@ -11,41 +11,41 @@ Looking for a printer-friendly version? Click [here](assets/docs/Ben_Nathanson_R
 # Employment
 
 ### Stavvy
-- ##### Full-Stack Software Engineer
-  **November 2020 - Present**
-  - Owned and delivered features end-to-end using FastAPI, Python, React, Typescript, and more.
-  - Refactored internal services into a public API, opening the door to a new set of use cases and customers.
-  - Deployed lambdas, queues, tables, and other infrastructure using Terraform and Serverless.
-  - Thrived as we grew from 15 to 150+ people, raised a $40 million series A, and built products from 0 to 1.
-  - Created pre-commit hooks and CI pipelines to promote quality through readability test coverage.
-  - Shipped a complex feature integration with changing requirements and limited documentation.
-  - Leveraged my music and public speaking background to demo new features to diverse audiences.
+##### Full-Stack Software Engineer
+**November 2020 - Present**
+- Owned and delivered features end-to-end using FastAPI, Python, React, Typescript, and more.
+- Refactored internal services into a public API, opening the door to a new set of use cases and customers.
+- Deployed lambdas, queues, tables, and other infrastructure using Terraform and Serverless.
+- Thrived as we grew from 15 to 150+ people, raised a $40 million series A, and built products from 0 to 1.
+- Created pre-commit hooks and CI pipelines to promote quality through readability test coverage.
+- Shipped a complex feature integration with changing requirements and limited documentation.
+- Leveraged my music and public speaking background to demo new features to diverse audiences.
 
 ### PNC numo
-- ##### Software Engineer Intern
-  **January 2020 - August 2020**
-  - Built Python AWS Lambdas to compress and cache images to an S3 bucket, cutting down data usage.
-  - Created a regression test suite for our transactions API using LocalStack, Behave, Docker, and Python.
-  - Led sprint retrospectives, demoed new features, and practiced Agile Scrum in a fast-paced environment.
-  - Developed a new UI test suite for a consumer-facing mobile app using Flutter driver and MockServer.
-  - Deployed automated tests on GitHub Actions to deliver continuous integration testing.
+##### Software Engineer Intern
+**January 2020 - August 2020**
+- Built Python AWS Lambdas to compress and cache images to an S3 bucket, cutting down data usage.
+- Created a regression test suite for our transactions API using LocalStack, Behave, Docker, and Python.
+- Led sprint retrospectives, demoed new features, and practiced Agile Scrum in a fast-paced environment.
+- Developed a new UI test suite for a consumer-facing mobile app using Flutter driver and MockServer.
+- Deployed automated tests on GitHub Actions to deliver continuous integration testing.
 
 ### Columbus McKinnon
-- ##### Test Automation Intern
-  **October 2019 - December 2019**
-  - Saved hours of manual acceptance testing on each release cycle by automating forty UI tests with C#.
+##### Test Automation Intern
+**October 2019 - December 2019**
+- Saved hours of manual acceptance testing on each release cycle by automating forty UI tests with C#.
 
 ---
 
 # Education
-- #### University of Pittsburgh
-  **January 2018 - August 2020**
-  - B.S. in Computer Science, graduated August 2020.
-  - Cumulative GPA: 3.22 / 4.0. Departmental GPA: 3.33 / 4.0.
+#### University of Pittsburgh
+**January 2018 - August 2020**
+- B.S. in Computer Science, graduated August 2020.
+- Cumulative GPA: 3.22 / 4.0. Departmental GPA: 3.33 / 4.0.
 
-- #### Dickinson College
-  **August 2011 - May 2015**
-  - B.A. in Environmental Studies, graduated May 2015.
+#### Dickinson College
+**August 2011 - May 2015**
+- B.A. in Environmental Studies, graduated May 2015.
 
 ---
 
