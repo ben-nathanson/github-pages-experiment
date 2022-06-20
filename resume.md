@@ -17,7 +17,7 @@ Looking for a printer-friendly version? Click [here](assets/docs/Ben_Nathanson_R
 - Refactored internal services into a public API, opening the door to a new set of use cases and customers.
 - Deployed lambdas, queues, tables, and other infrastructure using Terraform and Serverless.
 - Thrived as we grew from 15 to 150+ people, raised a $40 million series A, and built products from 0 to 1.
-- Created pre-commit hooks and CI pipelines to promote quality through readability test coverage.
+- Created pre-commit hooks and CI pipelines to promote quality through readability and test coverage.
 - Shipped a complex feature integration with changing requirements and limited documentation.
 - Leveraged my music and public speaking background to demo new features to diverse audiences.
 
