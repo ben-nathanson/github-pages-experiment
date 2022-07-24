@@ -9,6 +9,7 @@ author: Ben Nathanson
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "/"
   Resume: "resume"
   Projects: "projects"
   About Me: "aboutme"
