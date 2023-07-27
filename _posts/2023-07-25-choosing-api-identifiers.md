@@ -140,8 +140,7 @@ needs before deciding whether the added complexity makes sense.
 # Conclusions
 
 - Use a GUID.
-- If a GUID feels "too ugly", use a Short GUID.
-- Never use row IDs or timestamps.
+- Avoid row IDs or timestamps.
 
 ## Grains of Salt 🧂 and Extra Bits
 - This advice comes from working at just two companies for four
