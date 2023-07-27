@@ -165,7 +165,7 @@ attribute of our resource.
   generator. Without sufficient entropy, GUIDs will be predictable
 and prone to collisions.
 - If we setup a web application firewall (WAF) with proper rate
-  limiting and blocking, can control how many chances an attacker
+  limiting and blocking, we can limit how many chances an attacker
 has to guess an identifier correctly.
 - Validate UUIDs in your controllers before persisting them. They
   are not just strings! Ignore data integrity at your peril...
