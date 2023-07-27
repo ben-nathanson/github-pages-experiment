@@ -8,12 +8,17 @@ date: 2023-07-25 09:00:00 -0500
 ## Motivation
 
 In my time as an engineer I have seen all of the following used in
-identifying API resources: 1. Integers, usually representing a
-sequential row ID in a database. Example: `123`.  2. Timestamps
-(yes, really). Example: `1684280000`.  2. Globally unique
+identifying API resources: 
+1. Integers, usually representing a
+sequential row ID in a database. Example: `123`.  
+2. Timestamps
+(yes, really). Example: `1684280000`.  
+3. Globally unique
 identifiers, also known as GUIDs or UUIDv4. Example:
-`289615c5-976a-41e5-ad67-c56bbd24b5df` 3. Short GUIDs. Example:
-`9EcYJzNXNXp82F8mvFX7S7`.  5. Prefixed GUIDs. Example:
+`289615c5-976a-41e5-ad67-c56bbd24b5df` 
+4. Short GUIDs. Example:
+`9EcYJzNXNXp82F8mvFX7S7`.  
+5. Prefixed GUIDs. Example:
 `acct_9EcYJzNXNXp82F8mvFX7S7`.
 
 
@@ -166,13 +171,13 @@ has to guess an identifier correctly.
   are not just strings! Ignore data integrity at your peril...
 
 ## Sources & Further Reading:
-- datatracker.ietf.org/doc/html/rfc3986
-- datatracker.ietf.org/doc/html/rfc4122
-- krebsonsecurity.com/2018/04/panerabread-com-leaks-millions-of-customer-records/
-- stripe.com/docs/api/authentication
-- tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439
-- usa.kaspersky.com/blog/blackhat-jeep-cherokee-hack-explained/5749/
-- uuidtools.com/uuid-versions-explained
-- wikipedia.org/wiki/German_tank_problem
-- wikipedia.org/wiki/Natural_key
-- wikipedia.org/wiki/Surrogate_key
+- [datatracker.ietf.org/doc/html/rfc3986](datatracker.ietf.org/doc/html/rfc3986)
+- [datatracker.ietf.org/doc/html/rfc4122](datatracker.ietf.org/doc/html/rfc4122)
+- [krebsonsecurity.com/2018/04/panerabread-com-leaks-millions-of-customer-records/](krebsonsecurity.com/2018/04/panerabread-com-leaks-millions-of-customer-records/)
+- [stripe.com/docs/api/authentication](stripe.com/docs/api/authentication)
+- [tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439](tomharrisonjr.com/uuid-or-guid-as-primary-keys-be-careful-7b2aa3dcb439)
+- [usa.kaspersky.com/blog/blackhat-jeep-cherokee-hack-explained/5749/](usa.kaspersky.com/blog/blackhat-jeep-cherokee-hack-explained/5749/)
+- [uuidtools.com/uuid-versions-explained](uuidtools.com/uuid-versions-explained)
+- [wikipedia.org/wiki/German_tank_problem](wikipedia.org/wiki/German_tank_problem)
+- [wikipedia.org/wiki/Natural_key](wikipedia.org/wiki/Natural_key)
+- [wikipedia.org/wiki/Surrogate_key](wikipedia.org/wiki/Surrogate_key)
