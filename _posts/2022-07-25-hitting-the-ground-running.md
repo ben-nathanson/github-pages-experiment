@@ -1,6 +1,6 @@
 ---
 title: Hitting the Ground Running
-subtitle: Succeeding as a New Member of an Engineering Team
+subtitle: Succeeding as a New Member of an Engineering Team.
 date: 2022-07-25 09:00:00 -0500
 
 ---
