@@ -10,9 +10,13 @@ Looking for a printer-friendly version? Click [here](assets/docs/Ben_Nathanson_R
 
 # Employment
 
+### Apple
+#### Software Engineer, DevOps
+**September 2023 - Present**
+
 ### Stavvy
 ##### Software Engineer II
-**November 2020 - Present**
+**November 2020 - August 2023**
 - Owned and delivered features end-to-end using Python, Java, FastAPI, React, and Typescript.
 - Refactored internal services into a public API, opening the door to a new set of use cases and customers.
 - Deployed lambdas, queues, tables, and other infrastructure using Terraform and AWS.
