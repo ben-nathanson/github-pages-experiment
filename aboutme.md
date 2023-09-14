@@ -15,13 +15,9 @@ After completing my first degree, I starting teaching myself Java via [CodingBat
 
 As a capstone to my education, I worked at PNC numo as an intern and contractor developing backend distributed systems, deploying a test pipeline for a backend API, and building a test framework for indi, a mobile banking app. I'm excited to see the product take off and it was a privilege to work with everyone there. [Check it out!](https://goindi.com/)
 
-### Where are you now?
-
-Boston. Brookline, more specifically. I landed a great job at [Stavvy](https://www.stavvy.com) as a full-stack Software Engineer where I am working on Python, AWS, TypeScript, and more. 
-
 ### What do you do besides work?
 
-I really do love coding. It's a hobby that turned into a job. But when I'm not coding, I compose and perform music with various bands (guitar / bass / synthesizer), research the Pittsburgh taco scene, and enjoy endurance running along the South Side trail and Emerald View Park.
+I really do love coding. It's a hobby that turned into a job. But when I'm not coding, I enjoy making music (guitar / bass / synthesizer), cooking, and hiking around Boston.
 
 ### Tabs or spaces?
 Tabs.
