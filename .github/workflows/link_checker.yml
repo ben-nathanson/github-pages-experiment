@@ -1,6 +1,6 @@
 name: Check markdown links
-on: [push, pull_request]
-
+on: 
+  - push
 jobs:
   linkChecker:
     runs-on: ubuntu-latest
